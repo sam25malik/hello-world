@@ -1,3 +1,3 @@
 # hello-world
 Just another repository
-Hi i am sameer i like coding 
+Hi i am sameer i like coding .
